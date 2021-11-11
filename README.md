@@ -64,7 +64,9 @@ As I continue to learn more every day about different programming languages, I'm
     ├──Python
         ├──1_Python_In_Depth.ipynb
         ├──2_Algorithms_Sort.ipynb
-        ├──3_Algorithms_Search.ipynb
+        ├──3_Algorithms_Search.ipynb 
+├──Machine Learning From Scratch
+    ├──Neural_Network_From_Scratch.ipynb 
 ├── Misc Workbooks
     ├──.ipynb_checkpoints
     ├──serenade.py
