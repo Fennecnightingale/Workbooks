@@ -68,6 +68,12 @@ As I continue to learn more every day about different programming languages, I'm
 ├──Machine Learning From Scratch
     ├──Neural_Network_From_Scratch.ipynb 
 ├── Misc Workbooks
+    ├──facial_recognition
+        ├──known_faces
+        ├──unknown_faces  
+        ├──facial_recognition_using_library.py
+        ├──video.mp4  
+        ├──with_video.py
     ├──.ipynb_checkpoints
-    ├──serenade.py
+    ├──serenade_tutorial.py
 └── README.md
