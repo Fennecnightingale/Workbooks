@@ -21,7 +21,7 @@ for name in os.listdir(known_faces_dir):
     known_faces.append(encoding)
     known_names.append(name)
 print("loading video")
-video = cv2.VideoCapture('video.mp4')
+video = cv2.VideoCapture('video.mp4')# type 2  for camera acess, takes more than my computer can handle
 while True:
   ret, image = video.read()
   locations = face_recognition.face_locations(image, model=model)
